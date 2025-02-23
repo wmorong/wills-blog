@@ -43,6 +43,8 @@ author:
   # Used by `jekyll-feed`:
   name:                William Morong
   email:               w.n.morong@gmail.com
+  social:
+    rss:      https://wmorong.github.io/wills-blog/feed.xml
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 

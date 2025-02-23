@@ -23,7 +23,7 @@ sitemap: false
 I've worked on development of experimental quantum technologies in a few different subfields over the years. Here I provide a summary and some highlights, but if you just want the papers you can find them at my [Google Scholar page](https://scholar.google.com/citations?user=wsl7rBYAAAAJ). All of my peer-reviewed papers are available for free on the [arxiv](https://arxiv.org/).
 
 ## Superconducting quantum computers
-I currently work at the AWS Center for Quantum Computing, where we're building quantum computers out of superconducting circuits. I can't say much about this yet, but stay tuned!
+I currently work at the [AWS Center for Quantum Computing](https://aws.amazon.com/blogs/quantum-computing/announcing-the-opening-of-the-aws-center-for-quantum-computing/), where we're building quantum computers out of superconducting circuits. I can't say much about this yet, but stay tuned!
 
 ## Trapped ions
 ![Full-width image](/assets/img/research/ions.png){: width="1200"}
