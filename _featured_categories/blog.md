@@ -10,7 +10,7 @@ slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Some thoughts
+  Some thoughts centered around the art, science, and culture of physics
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
