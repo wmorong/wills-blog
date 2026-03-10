@@ -25,7 +25,7 @@ sitemap: false
 
 ![Full-width image](/assets/img/author/IDPic.jpg){: width="200"}
 
-I'm a physicist, currently working as a quantum research scientist at Amazon Web Services.
+I'm a physicist, currently working as a quantum research scientist at Google Quantum AI.
 
 If you enjoy reading my blog, check out some other science blogs that I read. Not all are active, but the archives are worthwhile:
 
